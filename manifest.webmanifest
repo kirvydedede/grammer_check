@@ -1,1 +1,16 @@
-{"name":"一億人の英文法 理解度チェック","short_name":"英文法チェック","start_url":"./index.html","display":"standalone","background_color":"#f8fafc","theme_color":"#0f172a","lang":"ja","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "一億人の英文法 理解度チェック",
+  "short_name": "英文法Check",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
