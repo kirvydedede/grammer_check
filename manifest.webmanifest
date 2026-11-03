@@ -1,6 +1,6 @@
 {
-  "name": "一億人の英文法 理解度チェック",
-  "short_name": "英文法Check",
+  "name": "一億人の英文法 細分化理解度チェック",
+  "short_name": "英文法Fine",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
